@@ -119,6 +119,10 @@ Before submission, the following were verified:
 ### ScreenShots
 
 - 1. health/live
+![Screeshot](https://github.com/29sumitjha/lyftrAI-backend/blob/main/results/lyftrAI_1.png)
+
+- 2. health/ready
+![Screeshot](https://github.com/29sumitjha/lyftrAI-backend/blob/main/results/lyftrAI_2.png)
 
 ### 👨‍💻 Author
 
