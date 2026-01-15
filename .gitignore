@@ -1,0 +1,15 @@
+#python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+venv/
+#pytest
+.pytest_cache/
+# Docker
+*.log
+#OS
+.DS_Store
+Thumbs.db
