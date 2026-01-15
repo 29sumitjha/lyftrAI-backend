@@ -40,7 +40,7 @@
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/29sumitjha
+git clone https://github.com/29sumitjha/lyftrAI-backend.git
 ```
 
 Create a virtual environment and activate it **(recommended)**
