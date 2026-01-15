@@ -113,16 +113,43 @@ Before submission, the following were verified:
 - Webhook idempotency handled
 - Clean and readable code structure
 
-### Short note
-"VS code + occasional ChatGPT/Gemini prompts"
+---
 
 ### ScreenShots
 
-- 1. health/live
+- health/live
 ![Screeshot](https://github.com/29sumitjha/lyftrAI-backend/blob/main/results/lyftrAI_1.png)
 
-- 2. health/ready
+- health/ready
 ![Screeshot](https://github.com/29sumitjha/lyftrAI-backend/blob/main/results/lyftrAI_2.png)
+
+- /messages, /message?from, /message?since and /message?q=Hello
+![Screeshot](https://github.com/29sumitjha/lyftrAI-backend/blob/main/results/lyftrAI_3.png)
+
+![Screeshot](https://github.com/29sumitjha/lyftrAI-backend/blob/main/results/lyftrAI_4.png)
+
+![Screeshot](https://github.com/29sumitjha/lyftrAI-backend/blob/main/results/lyftr_5.png)
+
+![Screeshot](https://github.com/29sumitjha/lyftrAI-backend/blob/main/results/lyftr_6.png)
+
+- /stats
+![Screeshot](https://github.com/29sumitjha/lyftrAI-backend/blob/main/results/lyftrAI_7.png)
+
+- /metrics
+![Screeshot](https://github.com/29sumitjha/lyftrAI-backend/blob/main/results/lyftr_8.png)
+
+- lyftr-backend running in Docker Desktop
+![Screeshot](https://github.com/29sumitjha/lyftrAI-backend/blob/main/results/lyftr_9.png)
+
+- pytest -vv output
+![Screeshot](https://github.com/29sumitjha/lyftrAI-backend/blob/main/results/lyftr_10.png)
+
+---
+
+### Short note
+"VS code + occasional ChatGPT/Gemini prompts"
+
+---
 
 ### 👨‍💻 Author
 
