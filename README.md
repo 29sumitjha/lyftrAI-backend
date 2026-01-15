@@ -113,6 +113,9 @@ Before submission, the following were verified:
 - Webhook idempotency handled
 - Clean and readable code structure
 
+### Short note
+"VS code + occasional ChatGPT/Gemini prompts"
+
 ### 👨‍💻 Author
 
 Sumit Kumar Jha
